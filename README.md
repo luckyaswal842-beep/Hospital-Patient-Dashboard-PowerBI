@@ -21,3 +21,5 @@ Source: Hospital dataset from a YouTube tutorial
 - Admission & Discharge Date
 - Billing & Charges
 - Medication tracking
+
+- <a href="https://github.com/luckyaswal842-beep/Hospital-Patient-Dashboard-PowerBI/blob/main/resume%20project%20power%20bi%202.pbix">Dataset
