@@ -61,4 +61,4 @@ This dashboard enables hospitals to:
 - Support data-driven healthcare decisions
 
 ## Dashboard
-<img width="954" height="525" alt="Hospital-DataAnalysis-Dashboard" src="https://github.com/user-attachments/assets/10389a39-a0b4-4835-8c79-f3a53110f696" />
+<img width="931" height="503" alt="Hospital-DataAnalysis-Dashboard" src="https://github.com/user-attachments/assets/bcbc3145-ba30-4793-b52e-b9d562f5ceb3" />
