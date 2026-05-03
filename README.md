@@ -22,7 +22,7 @@ Source: Hospital dataset from a YouTube tutorial
 - Billing & Charges
 - Medication tracking
 
-- <a href="https://github.com/luckyaswal842-beep/Hospital-Patient-Dashboard-PowerBI/blob/main/resume%20project%20power%20bi%202.pbix">Dataset
+- <a href="https://github.com/luckyaswal842-beep/Hospital-Patient-Dashboard-PowerBI/blob/main/Hospital-DataAnalysis-Dataset.pbix">Dataset
 
 ## 🧹 Data Cleaning & Preparation
 - Handled missing/null values
@@ -59,3 +59,6 @@ This dashboard enables hospitals to:
 - Track and optimize healthcare costs
 - Enhance billing and revenue tracking
 - Support data-driven healthcare decisions
+
+## Dashboard
+<img width="954" height="525" alt="Hospital-DataAnalysis-Dashboard" src="https://github.com/user-attachments/assets/10389a39-a0b4-4835-8c79-f3a53110f696" />
